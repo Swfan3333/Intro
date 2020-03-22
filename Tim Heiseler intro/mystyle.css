@@ -1,0 +1,57 @@
+
+h1{
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 100;
+}
+
+h4{
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 50;
+}
+
+h5{
+	font-family: 'Hind', sans-serif;
+	font-size: 19;
+}
+
+
+
+.ban1{
+	height: 30.1%;
+    width: 50%;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:-550px;
+}
+
+.ban2{
+  background-image: url("images/prism.png");
+  height: 180.1%;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+}
+
+body{
+	background-image: url("images/spikes.png");
+}
+
+  .ban3{
+    height:345;
+    width:550;
+    
+    margin-top:-400;
+    margin-left:485px;
+  } 
+
+  .ban4{
+    height:200px;
+    width:200px;
+    
+    margin-bottom: 350px;
+    margin-left:50px;
+
+  }
